@@ -2,8 +2,10 @@
 
 one:
   title: MyString
-  is_live: false
+  article: one
+  news: one
 
 two:
   title: MyString
-  is_live: false
+  article: two
+  news: two

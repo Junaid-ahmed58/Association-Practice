@@ -1,3 +1,3 @@
-class Article < ApplicationRecord
+class News < ApplicationRecord
   has_many :comments, as: :commentable
 end
